@@ -1,0 +1,12 @@
+@import './common.css';
+
+.main-container {
+    padding: 20px;
+}
+.main-container .contents-title {
+    height: 30px;
+}
+
+.contents-height {
+    height: 525px;
+}
